@@ -1,0 +1,64 @@
+{
+  "menu": [
+    {
+      "title": "Home"
+    },
+    {
+      "STD 10th & 12th": [
+        "ITA-CS+",
+        " Animation & VFX 2 year",
+        "Business Administration Commerce"
+      ]
+    },
+    {
+      "Career Courses":[
+        {
+          "title":"Designing"
+        }
+      ]
+    },
+    {
+      "title": "Courses",
+      "subMenu": [
+        {
+          "title": "Web Development",
+          "link": "/courses/web-dev"
+        },
+        {
+          "title": "UI/UX Design",
+          "link": "/courses/uiux"
+        }
+      ]
+    },
+    {
+      "title": "About Us",
+      "subMenu": [
+        {
+          "title": "Our Mission",
+          "link": "/about/mission"
+        },
+        {
+          "title": "Our Team",
+          "link": "/about/team"
+        }
+      ]
+    },
+    {
+      "title": "Student Corner",
+      "subMenu": [
+        {
+          "title": "Results",
+          "link": "/student/results"
+        },
+        {
+          "title": "Activities",
+          "link": "/student/activities"
+        }
+      ]
+    },
+    {
+      "title": "Contact Us",
+      "link": "/contact"
+    }
+  ]
+}

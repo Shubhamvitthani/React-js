@@ -1,0 +1,315 @@
+{
+    "properties": [
+        {
+            "id": 1,
+            "title": "Modern Family Home",
+            "description": "A beautiful 4-bedroom family home with a spacious garden.",
+            "price": 350000,
+            "location": {
+                "address": "123 Maple Street",
+                "city": "Springfield",
+                "state": "IL",
+                "zipcode": "62704"
+            },
+            "propertyType": "Single Family",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "area": 2500,
+            "images": [
+                "https://cdn.houseplansservices.com/content/t4nittq8jgifqkfgeghr5hmtqm/w991x660.jpg?v=9",
+                "https://i.ytimg.com/vi/dHSJqzQPyAM/maxresdefault.jpg"
+            ],
+            "agent": {
+                "name": "Jane Doe",
+                "phone": "555-1234",
+                "email": "jane.doe@example.com"
+            },
+            "listedDate": "2025-04-20"
+        },
+        {
+            "id": 2,
+            "title": "Luxury Apartment",
+            "description": "A stunning 3-bedroom apartment in the heart of the city.",
+            "price": 750000,
+            "location": {
+                "address": "456 Oak Avenue",
+                "city": "Metropolis",
+                "state": "NY",
+                "zipcode": "10001"
+            },
+            "propertyType": "Apartment",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 1800,
+            "images": [
+                "https://media.istockphoto.com/id/1393537665/photo/modern-townhouse-design.jpg?s=612x612&w=0&k=20&c=vgQesOXDRzz0UfOZxmUtE-rFe75YgA9GvkKS8eeeumE=",
+                "https://img.freepik.com/premium-photo/modern-luxury-apartment-building-with-modern-architectural-design_1092965-3577.jpg"
+            ],
+            "agent": {
+                "name": "John Smith",
+                "phone": "555-5678",
+                "email": "jane.doe@example.com"
+            },
+            "listedDate": "2025-04-22"
+        },
+        {
+            "id": 3,
+            "title": "Cozy Cottage",
+            "description": "A charming 2-bedroom cottage in a quiet neighborhood.",
+            "price": 250000,
+            "location": {
+                "address": "789 Pine Lane",
+                "city": "Smalltown",
+                "state": "TX",
+                "zipcode": "73301"
+            },
+            "propertyType": "Cottage",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "area": 1200,
+            "images": [
+                "https://i.ytimg.com/vi/t6lUSC3XR7k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBtOnYQ7fdt3T_qQrIBZYmF0AoyVw",
+                "https://ohiomagazine.imgix.net/sitefinity/images/default-source/articles/2022/january-february-2022/winter-getaways-stone-cottage-loka-creative.jpg?sfvrsn=b4d6a138_8&w=960&auto=compress%2Cformat"
+            ],
+            "agent": {
+                "name": "Emily Johnson",
+                "phone": "555-8765",
+                "email": "Emily.doe@example.com"
+            },
+            "listedDate": "2025-04-25"
+        },
+        {
+            "id": 4,
+            "title": "Spacious Townhouse",
+            "description": "A modern 3-bedroom townhouse with a garage.",
+            "price": 400000,
+            "location": {
+                "address": "321 Birch Road",
+                "city": "Big City",
+                "state": "CA",
+                "zipcode": "90001"
+            },
+            "propertyType": "Townhouse",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 2000,
+            "images": [
+                "https://thumbs.dreamstime.com/b/interior-spacious-house-modern-area-49509723.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4BKEDv-3JtqDRQhNgAqgTvGBw_sA4bE11zBu9BOpnPc6Faa3zpcJw6_omfvcSc4zLr4&usqp=CAU"
+            ],
+            "agent": {
+                "name": "Michael Brown",
+                "phone": "555-4321",
+                "email": "Michael.doe@example.com"
+            },
+            "listedDate": "2025-04-28"
+        },
+        {
+            "id": 5,
+            "title": "Luxury Villa",
+            "description": "An exquisite 5-bedroom villa with a pool and ocean view.",
+            "price": 1500000,
+            "location": {
+                "address": "654 Sunset Boulevard",
+                "city": "Los Angeles",
+                "state": "CA",
+                "zipcode": "90001"
+            },
+            "propertyType": "Villa",
+            "bedrooms": 5,
+            "bathrooms": 4,
+            "area": 3500,
+            "images": [
+                "https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg",
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/504072725.jpg?k=7fb23f99c6696dc46e26d4a2ac43b15c076fdffca569d6759dc3500bb1dfa504&o=&hp=1"
+            ],
+            "agent": {
+                "name": "Sarah Wilson",
+                "phone": "555-6789",
+                "email": "Sarah.wilson@example.com"
+            },
+            "listedDate": "2025-04-30"
+        },
+        {
+            "id": 6,
+            "title": "Charming Bungalow",
+            "description": "A lovely 3-bedroom bungalow with a large backyard.",
+            "price": 300000,
+            "location": {
+                "address": "987 Elm Street",
+                "city": "Hometown",
+                "state": "FL",
+                "zipcode": "33101"
+            },
+            "propertyType": "Bungalow",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 1600,
+            "images": [
+                "https://i.pinimg.com/736x/bc/c5/e6/bcc5e6f48f6a7f8431638588801c5bba.jpg",
+                "https://i.pinimg.com/736x/5d/39/ca/5d39caf08b7fc6e2f5d74a5117383dec.jpg"
+            ],
+            "agent": {
+                "name": "David Lee",
+                "phone": "555-3456",
+                "email": "David.lee@example.com"
+            },
+            "listedDate": "2025-05-02"
+        },
+        {
+            "id": 7,
+            "title": "Stylish Loft",
+            "description": "A trendy loft with an open floor plan and modern amenities.",
+            "price": 500000,
+            "location": {
+                "address": "159 Industrial Way",
+                "city": "Downtown",
+                "state": "WA",
+                "zipcode": "98001"
+            },
+            "propertyType": "Loft",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "area": 1400,
+            "images": [
+                "https://media.istockphoto.com/id/696919864/photo/modern-loft-apartment-3d-rendering.jpg?s=612x612&w=0&k=20&c=snCd0B5eywqzwELIKtVgvIYs80xCup62LUvSt5GWavw=",
+                "https://media.istockphoto.com/id/1088979324/photo/new-modern-city-loft-apartment-3d-rendering.jpg?s=612x612&w=0&k=20&c=knDzmX6IYag-5eId6IRxA5GDsjOsFC4UqeHjPdRaa8A="
+            ],
+            "agent": {
+                "name": "Laura Green",
+                "phone": "555-7890",
+                "email": "Laura.Green@example.com"
+            },
+            "listedDate": "2025-05-05"
+        },
+        {
+            "id": 8,
+            "title": "Elegant Mansion",
+            "description": "A grand mansion with 6 bedrooms and a private garden.",
+            "price": 3000000,
+            "location": {
+                "address": "321 Royal Avenue",
+                "city": "Luxury City",
+                "state": "NY",
+                "zipcode": "10001"
+            },
+            "propertyType": "Mansion",
+            "bedrooms": 6,
+            "bathrooms": 5,
+            "area": 6000,
+            "images": [
+                "https://www.shutterstock.com/image-illustration/luxury-mansion-garden-expensive-cars-260nw-2025532670.jpg",
+                "https://img.freepik.com/premium-photo/elegant-mansion-with-pillared-entrance_861346-73424.jpg"
+            ],
+            "agent": {
+                "name": "Chris Black",
+                "phone": "555-2345",
+                "email": "Chris.Black@example.com"
+            },
+            "listedDate": "2025-05-10"
+        },
+        {
+            "id": 9,
+            "title": "Rustic Farmhouse",
+            "description": "A cozy farmhouse with 4 bedrooms and a barn.",
+            "price": 450000,
+            "location": {
+                "address": "852 Country Road",
+                "city": "Countryside",
+                "state": "TX",
+                "zipcode": "73301"
+            },
+            "propertyType": "Farmhouse",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "area": 2800,
+            "images": [
+                "https://americanfarmhousestyle.com/wp-content/uploads/2023/07/FEATURED-IMAGE-OPTION-2-Second-Cashiers-North-Carolina_1.jpg",
+                "https://i.ytimg.com/vi/_INnPmZUjPU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBTxZ_Z_zb_f692wau4ReCvJtqweQ"
+            ],
+            "agent": {
+                "name": "Anna White",
+                "phone": "555-6789",
+                "email": "anna.white@example.com"
+            },
+            "listedDate": "2025-05-15"
+        },
+        {
+            "id": 10,
+            "title": "Contemporary Condo",
+            "description": "A modern condo with 2 bedrooms and a balcony.",
+            "price": 600000,
+            "location": {
+                "address": "753 City Center",
+                "city": "Urban City",
+                "state": "IL",
+                "zipcode": "60601"
+            },
+            "propertyType": "Condo",
+            "bedrooms": 2,
+            "bathrooms": 2,
+            "area": 1300,
+            "images": [
+                "https://www.shutterstock.com/image-photo/modern-elements-contemporary-architecture-architectural-600nw-2136196457.jpg",
+                "https://pic2.99.co/v3/7dUjZKcoiXxciCQU7ErMS8?text=Tang+Wee+Meng+%28Caleb+Tang%29&sampling=lanczos&version=1&height=600&width=800&mode=fill&quality=80&convert_if_png=true&signature=34529b608c57361ac34001761bc163d941c26250"
+            ],
+            "agent": {
+                "name": "Tom Brown",
+                "phone": "555-4321",
+                "email": "tom.brown@example.com"
+            },
+            "listedDate": "2025-05-20"
+        },
+        {
+            "id": 11,
+            "title": "Beachfront Property",
+            "description": "A stunning property with direct beach access.",
+            "price": 2000000,
+            "location": {
+                "address": "123 Ocean Drive",
+                "city": "Beach City",
+                "state": "FL",
+                "zipcode": "33101"
+            },
+            "propertyType": "Beach House",
+            "bedrooms": 5,
+            "bathrooms": 4,
+            "area": 4000,
+            "images": [
+                "https://www.shutterstock.com/image-photo/beachfront-properties-holiday-destination-antigua-600nw-2448396629.jpg",
+                "https://d34mfkth6cubud.cloudfront.net/wp-content/uploads/2022/11/07072216/Advantages-and-Disadvantages-of-Beachfront-Living-_-Cover-7-11-22.jpg"
+            ],
+            "agent": {
+                "name": "Sophie Turner",
+                "phone": "555-9876",
+                "email": "Sophie.Turner@example.com"
+            },
+            "listedDate": "2025-05-25"
+        },
+        {
+            "id": 12,
+            "title": "Mountain Retreat",
+            "description": "A serene retreat in the mountains with breathtaking views.",
+            "price": 800000,
+            "location": {
+                "address": "456 Mountain Road",
+                "city": "Mountain Town",
+                "state": "CO",
+                "zipcode": "80301"
+            },
+            "propertyType": "Cabin",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 2200,
+            "images": [
+                "https://q-xx.bstatic.com/xdata/images/hotel/max500/666105638.jpg?k=51ce023b283f8e07e785981e2fcf7dcd73185243eb62e2d3604ffa7a3de4a251&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/362584090.jpg?k=c1886f3f2a060924b037a08f25a7952869ead782562bf13cff7730dff197ce7c&o=&hp=1"
+            ],
+            "agent": {
+                "name": "Liam Neeson",
+                "phone": "555-6543",
+                "email": "liam.neeson@example.com"
+            }
+        }
+    ]
+}
