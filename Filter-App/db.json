@@ -1,0 +1,274 @@
+{
+    "star": [
+        {
+            "id": 1,
+            "name": "Arjit Singh"
+        },
+        {
+            "id": 2,
+            "name": "Darshan Raval"
+        },
+        {
+            "id": 3,
+            "name": "Mika Singh"
+        },
+        {
+            "id": 4,
+            "name": "Siddhu Moose Wala"
+        },
+        {
+            "id": 5,
+            "name": "Neha Kakkar"
+        },
+        {
+            "id": 6,
+            "name": "Aditya Gadhvi"
+        },
+        {
+            "id": 7,
+            "name": "KK"
+        },
+        {
+            "id": 8,
+            "name": "Sonu Nigam"
+        },
+        {
+            "id": 9,
+            "name": "Atif Aslam"
+        },
+        {
+            "id": 10,
+            "name": "Badshah"
+        }
+    ],
+    "songs": [
+        {
+            "id": 1,
+            "image": "https://m.media-amazon.com/images/M/MV5BYmYxNzI2ZTktNmNhMi00ZDEyLWE4ODctNDM0ZTk0NjVjYWNmXkEyXkFqcGc@._V1_.jpg",
+            "name": "Tum Hi Ho",
+            "star": "Arjit Singh"
+        },
+        {
+            "id": 2,
+            "name": "Channa Mereya",
+            "image":"https://i.ytimg.com/vi/NZ_CyT28zto/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdt-Pb8h9es4hAQblA9zojFsTIzw",
+            "star": "Arjit Singh"
+        },
+        {
+            "id": 3,
+            "name": "Raabta",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM1sWG4S-AfHB9jNhZMWTexwzMKeoX_6bx7g&s",
+            "star": "Arjit Singh"
+        },
+        {
+            "id": 4,
+            "name": "Kesariya",
+            "star": "Arjit Singh"
+        },
+        {
+            "id": 5,
+            "name": "Tera Ban Jaunga",
+            "star": "Darshan Raval"
+        },
+        {
+            "id": 6,
+            "name": "Bekhayali",
+            "star": "Darshan Raval"
+        },
+        {
+            "id": 7,
+            "name": "Ek Tarfa",
+            "star": "Darshan Raval"
+        },
+        {
+            "id": 8,
+            "name": "Asal Mein",
+            "star": "Darshan Raval"
+        },
+        {
+            "id": 9,
+            "name": "Aankh Marey",
+            "star": "Mika Singh"
+        },
+        {
+            "id": 10,
+            "name": "Party Toh Banti Hai",
+            "star": "Mika Singh"
+        },
+        {
+            "id": 11,
+            "name": "Subha Hone Na De",
+            "star": "Mika Singh"
+        },
+        {
+            "id": 12,
+            "name": "Long Drive",
+            "star": "Mika Singh"
+        },
+        {
+            "id": 13,
+            "name": "295",
+            "star": "Siddhu Moose Wala"
+        },
+        {
+            "id": 14,
+            "name": "So High",
+            "star": "Siddhu Moose Wala"
+        },
+        {
+            "id": 15,
+            "name": "The Last Ride",
+            "star": "Siddhu Moose Wala"
+        },
+        {
+            "id": 16,
+            "name": "Old Skool",
+            "star": "Siddhu Moose Wala"
+        },
+        {
+            "id": 17,
+            "name": "O Saki Saki",
+            "star": "Neha Kakkar"
+        },
+        {
+            "id": 18,
+            "name": "Garmi",
+            "star": "Neha Kakkar"
+        },
+        {
+            "id": 19,
+            "name": "Dilbar",
+            "star": "Neha Kakkar"
+        },
+        {
+            "id": 20,
+            "name": "Aankh Marey",
+            "star": "Neha Kakkar"
+        },
+        {
+            "id": 21,
+            "name": "Radha Ne Shyam Mali",
+            "star": "Aditya Gadhvi"
+        },
+        {
+            "id": 22,
+            "name": "Vaagyo Re Dhol",
+            "star": "Aditya Gadhvi"
+        },
+        {
+            "id": 23,
+            "name": "Kanha Re",
+            "star": "Aditya Gadhvi"
+        },
+        {
+            "id": 24,
+            "name": "Mor Bani Thanghat Kare",
+            "star": "Aditya Gadhvi"
+        },
+        {
+            "id": 25,
+            "name": "Yaaron",
+            "star": "KK"
+        },
+        {
+            "id": 26,
+            "name": "Pal",
+            "star": "KK"
+        },
+        {
+            "id": 27,
+            "name": "Tadap Tadap",
+            "star": "KK"
+        },
+        {
+            "id": 28,
+            "name": "Zara Sa",
+            "star": "KK"
+        },
+        {
+            "id": 29,
+            "name": "Kal Ho Naa Ho",
+            "star": "Sonu Nigam"
+        },
+        {
+            "id": 30,
+            "name": "Abhi Mujh Mein Kahin",
+            "star": "Sonu Nigam"
+        },
+        {
+            "id": 31,
+            "name": "Main Agar Kahoon",
+            "star": "Sonu Nigam"
+        },
+        {
+            "id": 32,
+            "name": "Saathiya",
+            "star": "Sonu Nigam"
+        },
+        {
+            "id": 33,
+            "name": "Jeene Laga Hoon",
+            "star": "Atif Aslam"
+        },
+        {
+            "id": 34,
+            "name": "Tera Hone Laga Hoon",
+            "star": "Atif Aslam"
+        },
+        {
+            "id": 35,
+            "name": "Dil Diyan Gallan",
+            "star": "Atif Aslam"
+        },
+        {
+            "id": 36,
+            "name": "Pehli Dafa",
+            "star": "Atif Aslam"
+        },
+        {
+            "id": 37,
+            "name": "DJ Waley Babu",
+            "star": "Badshah"
+        },
+        {
+            "id": 38,
+            "name": "Mercy",
+            "star": "Badshah"
+        },
+        {
+            "id": 39,
+            "name": "Paagal",
+            "star": "Badshah"
+        },
+        {
+            "id": 40,
+            "name": "Genda Phool",
+            "star": "Badshah"
+        },
+        {
+            "id": 41,
+            "name": "DJ Waley Babu",
+            "star": "Badshah"
+        },
+        {
+            "id": 42,
+            "name": "Mercy",
+            "star": "Badshah"
+        },
+        {
+            "id": 43,
+            "name": "Paagal",
+            "star": "Badshah"
+        },
+        {
+            "id": 44,
+            "name": "Genda Phool",
+            "star": "Badshah"
+        },
+        {
+            "id": 45,
+            "name": "DJ Waley Babu",
+            "star": "Badshah"
+        }
+    ]
+}

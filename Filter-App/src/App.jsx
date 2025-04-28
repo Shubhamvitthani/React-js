@@ -6,7 +6,6 @@ function App() {
 
   return (
     <>
-      <h1> My Api</h1>
       <Api/>
     </>
   )
