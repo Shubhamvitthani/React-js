@@ -1,0 +1,116 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "item": "home"
+        },
+        {
+            "id": 2,
+            "item": "stor locator"
+        },
+        {
+            "id": 3,
+            "item": "franchise enquiry"
+        },
+        {
+            "id": 4,
+            "item": "our story"
+        },
+        {
+            "id": 5,
+            "item": "jobs & careers"
+        },
+        {
+            "id": 6,
+            "item": "contact Us"
+        }
+    ],
+    "slider": [
+        {
+            "id": 1,
+            "image": "https://static.uengage.in/uploads/5/image-311238-1742376686.jpeg"
+        },
+        {
+            "id": 2,
+            "image": "https://static.uengage.in/uploads/5/image-969587-1742387608.jpeg"
+        },
+        {
+            "id": 3,
+            "image": "https://static.uengage.in/uploads/5/image-418128-1742387851.jpeg"
+        },
+        {
+            "id": 4,
+            "image": "https://static.uengage.in/uploads/5/image-879436-1742378438.jpeg"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "sides",
+            "image": "https://static.uengage.in/uploads/5/image-316968-1742454539.png"
+        },
+        {
+            "id": 2,
+            "name": "bogo",
+            "image": "https://static.uengage.in/uploads/5/image-862693-1742533643.png"
+        },
+        {
+            "id": 3,
+            "name": "menu @ 79",
+            "image": "https://static.uengage.in/uploads/5/image-417435-1742454540.png"
+        },
+        {
+            "id": 4,
+            "name": "ragular pizza @ 149",
+            "image": "https://static.uengage.in/uploads/5/image-783769-1742454538.png"
+        },
+        {
+            "id": 5,
+            "name": "persnol pizza slice",
+            "image": "https://static.uengage.in/uploads/5/image-953839-1742456670.png"
+        },
+        {
+            "id": 6,
+            "name": "double brust pizza",
+            "image": "https://static.uengage.in/uploads/5/image-415161-1742454540.png"
+        }
+    ],
+    "swiper": [
+        {
+            "id": 1,
+            "title": "Burn To Hell Pizza",
+            "price": 149,
+            "image": "https://static.uengage.in/uploads/5/image-556334-1726728786.jpeg"
+        },
+        {
+            "id": 2,
+            "price": 176,
+            "title": "La Pino'z Chicken Pizza",
+            "image": "https://static.uengage.in/uploads/5/image-318947-1715686807.png"
+        },
+        {
+            "id": 3,
+            "title": "Peri Peri Veg Pizza",
+            "price": 289,
+            "image": "https://static.uengage.in/uploads/5/image-537552-1726728787.jpeg"
+        },
+        {
+            "id": 4,
+            "title": "Cheezy-7 Pizza",
+            "price": 162,
+            "image": "https://static.uengage.in/uploads/5/image-462226-1715686799.png"
+        },
+        {
+            "id": 5,
+            "price": 198,
+            "title": "Peri Peri Veg Pizza",
+            "image": "https://static.uengage.in/uploads/5/image-183435-1715686808.png"
+        },
+        {
+            "id": 6,
+            "price": 258,
+            "title": "Farm Villa Pizza ",
+            "image": "https://static.uengage.in/uploads/5/image-123528-1726728787.jpeg"
+        }
+    ]
+}
