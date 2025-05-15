@@ -24,6 +24,12 @@ function App() {
       }, 200);
     }
   };
+  const removeInput = (index) => {
+    const newInput = [...input];
+    newInput.splice(index, 1);
+    setInput(newInput);
+  };
+
 
 
   return (
