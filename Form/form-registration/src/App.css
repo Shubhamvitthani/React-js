@@ -1,0 +1,50 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box {
+    background-image: url('https://wallpapercave.com/wp/wp6784523.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%!important;
+    width: 100%!important;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.101);
+    backdrop-filter: blur(10px);
+    color: black;
+    border: none;
+}
+
+.form-label,
+.input-group-text,
+.form-check-label,
+.form-select,
+.form-control {
+    color: black !important;
+    background: transparent !important;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.form-control::placeholder {
+    color: black;
+}
+
+.btn-color {
+    background-color: rgba(0, 0, 0, 0.595);
+    border: none;
+}
+
+.btn-color:hover {
+    background-color: black;
+}
+
+.form-check-input {
+   border-color: rgba(8, 8, 8, 0.147);
+   border-width:8px;
+}
