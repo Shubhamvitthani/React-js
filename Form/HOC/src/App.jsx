@@ -1,7 +1,11 @@
+import A from "./Components/A"
+import B from "./Components/B"
+
 function App() {
   return (
     <>
-      <h2>HOC</h2>
+      <A/>
+      <B/>
     </>
   )
 }

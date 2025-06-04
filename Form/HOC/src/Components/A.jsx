@@ -1,11 +1,17 @@
-import React from 'react'
+import Counter from './Counter';
 
-const A = () => {
-  return (
-    <div>
-      <h1>A</h1>
-    </div>
-  )
-}
+const AComponent = ({ no, inc,dec }) => {
+    return (
+        <div align="center">
+            <h1>Counter-App A</h1>
+            <h2>Count: {no}</h2>
+            <button onClick={inc}>+</button>&nbsp;&nbsp;
+            <button onClick={dec}>-</button>
+            <hr />
+        </div>
+    );
+};
 
-export default A
+const A = Counter(AComponent);
+
+export default A;
