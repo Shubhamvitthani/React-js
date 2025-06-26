@@ -1,0 +1,146 @@
+/* style.css */
+
+/* Body styling with soft gradient background */
+body {
+    font-family: cursive;
+    background: linear-gradient(to right, #e0f7fa, #e1bee7);
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styling */
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+/* Table styling */
+table {
+    border-collapse: collapse;
+    background: linear-gradient(to right, #ffffff, #f3e5f5);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+table th, table td {
+    padding: 14px 20px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+/* No hover on row/column now */
+table tr {
+    transition: none !important;
+}
+
+/* Table header gradient */
+thead {
+    background: linear-gradient(to right, #7b1fa2, #512da8);
+    color: white;
+}
+
+/* Buttons */
+button, .btn {
+    background-image: linear-gradient(to right, #4a148c, #7b1fa2);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    font-weight: bold;
+}
+
+button:hover, .btn:hover {
+    background-image: linear-gradient(to right, #6a1b9a, #9c27b0);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+}
+
+/* Input fields */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    background: #fafafa;
+}
+
+input:focus {
+    border-color: #7b1fa2;
+    outline: none;
+    box-shadow: 0 0 8px rgba(123, 31, 162, 0.4);
+}
+
+/* Headings */
+h1, h2 {
+    color: #6a1b9a;
+    animation: fadeInDown 0.5s ease-in-out;
+}
+
+/* Animation for headings */
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Navigation links */
+a {
+    color: #6a1b9a;
+    font-weight: 600;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Table (Optional, for smaller screens) */
+@media (max-width: 768px) {
+    table, tbody, tr, td, th {
+        display: block;
+        width: 100%;
+    }
+
+    thead {
+        display: none;
+    }
+
+    tr {
+        margin-bottom: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        background: white;
+        padding: 10px;
+    }
+
+    td {
+        padding: 10px;
+        text-align: right;
+        position: relative;
+    }
+
+    td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 10px;
+        font-weight: bold;
+        color: #333;
+        text-align: left;
+    }
+}

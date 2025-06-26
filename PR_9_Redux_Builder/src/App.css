@@ -1,0 +1,31 @@
+/* Light gradient card background */
+.bg-gradient-light {
+  background: linear-gradient(135deg, #e0f7fa, #ffffff);
+}
+
+/* Dark gradient input fields */
+.bg-gradient-dark {
+  background: linear-gradient(to right, #434343, #000000);
+}
+
+/* Pink-orange button gradient */
+.btn-gradient {
+  background: linear-gradient(to right, #ff416c, #ff4b2b);
+  color: white;
+  border: none;
+}
+
+/* Optional custom form card */
+.note-form-card {
+  background: linear-gradient(to right top, #f7f8fc, #dfe9f3);
+}
+
+/* Remove card hover zoom */
+.card {
+  transition: none !important;
+}
+input.bg-light, textarea.bg-light {
+  color: #333;
+  background-color: #f8f9fa !important;
+  box-shadow: none;
+}
