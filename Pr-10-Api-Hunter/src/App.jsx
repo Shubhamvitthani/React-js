@@ -8,8 +8,8 @@ const App = () => {
       <div className="py-4 text-center bg-primary text-white">
         <h2>🛍️ Redux Thunk API Call</h2>
       </div>
-      <FetchProducts />     {/* using fetch() */}
       <AxiosProducts />     {/* using axios */}
+      <FetchProducts />     {/* using fetch() */}
     </div>
   );
 };

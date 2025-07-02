@@ -1,0 +1,43 @@
+.form-floating-box {
+  position: relative;
+}
+
+.form-floating-box input,
+.form-floating-box textarea {
+  background-color: #111 !important;
+  border: 1px solid #555;
+  color: #ffffff;
+  padding: 1.2rem 0.75rem 0.5rem;
+  border-radius: 8px;
+  width: 100%;
+  transition: border-color 0.3s;
+}
+
+.form-floating-box label {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  color: #ffffff;
+  background: transparent;
+  padding: 0 4px;
+  transition: 0.2s ease all;
+  pointer-events: none;
+  font-size: 0.9rem;
+}
+
+.form-floating-box input:focus,
+.form-floating-box textarea:focus {
+  border-color: #dc3545;
+  outline: none;
+}
+
+.form-floating-box input:focus + label,
+.form-floating-box input:not(:placeholder-shown) + label,
+.form-floating-box textarea:focus + label,
+.form-floating-box textarea:not(:placeholder-shown) + label {
+  top: -8px;
+  left: 10px;
+  font-size: 0.75rem;
+  background-color: #000;
+  color: #dc3545;
+}
