@@ -1,0 +1,23 @@
+.login-container {
+  background: linear-gradient(to bottom, #111, #000);
+}
+
+.login-card {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  max-width: 400px;
+  width: 100%;
+}
+
+.login-card h2 {
+  color: #fff;
+}
+
+.login-card button {
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.login-card button:hover {
+  background-color: #c82333;
+}

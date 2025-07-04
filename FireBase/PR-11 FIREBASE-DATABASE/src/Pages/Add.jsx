@@ -59,7 +59,7 @@ const Add = () => {
             {/* Sidebar */}
             <div className="col-md-4 bg-gradient p-4 text-white" style={{ background: "linear-gradient(to bottom, #990000, #660000)" }}>
               <h2 className="text-center mb-4" style={{ color: "#dc3545" }}>User Management</h2>
-              <Link to="/" className="btn btn-outline-light mt-4 w-100">← Back to Users</Link>
+              <Link to="/view" className="btn btn-outline-light mt-4 w-100">← Back to Users</Link>
             </div>
 
             {/* Form Section */}
