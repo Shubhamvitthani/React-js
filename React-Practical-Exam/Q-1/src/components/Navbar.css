@@ -1,0 +1,77 @@
+.custom-navbar {
+  background: linear-gradient(to right, #f8ffae, #43c6ac);
+  padding: 15px 30px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.brand-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.brand-logo:hover {
+  color: #11998e;
+}
+
+.nav-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.nav-btn {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: 500;
+  border: none;
+  background: white;
+  color: #333;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.nav-btn:hover {
+  transform: scale(1.05);
+  background: #f0f0f0;
+}
+
+.nav-btn.success {
+  background: linear-gradient(to right, #11998e, #38ef7d);
+  color: white;
+}
+
+.nav-btn.success:hover {
+  background: linear-gradient(to right, #38ef7d, #11998e);
+}
+
+.nav-btn.danger {
+  background: linear-gradient(to right, #f85032, #e73827);
+  color: white;
+}
+
+.nav-btn.danger:hover {
+  background: linear-gradient(to right, #e73827, #f85032);
+}
+
+.nav-btn.primary {
+  background: linear-gradient(to right, #396afc, #2948ff);
+  color: white;
+}
+
+.nav-btn.primary:hover {
+  background: linear-gradient(to right, #2948ff, #396afc);
+}

@@ -1,0 +1,28 @@
+{
+  "recipes": [
+    {
+      "id": "0058",
+      "title": "Punjabi",
+      "ingredients": "Kaju-Kari",
+      "category": "Dinner",
+      "dateAdded": "2025-07-11T11:03:18.317Z",
+      "author": "Shubham"
+    },
+    {
+      "id": "74e3",
+      "title": "Chainees",
+      "ingredients": "Machurian",
+      "category": "Dinner",
+      "dateAdded": "2025-07-11T11:03:45.067Z",
+      "author": "Shubham"
+    },
+    {
+      "id": "fd62",
+      "title": "South-Indian",
+      "ingredients": "Iddli-Dosa",
+      "category": "break-Fast",
+      "dateAdded": "2025-07-11T11:04:20.140Z",
+      "author": "Shubham"
+    }
+  ]
+}
